@@ -1,5 +1,7 @@
 module github.com/Teamwork/squirrel
 
+go 1.14
+
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/lann/builder v0.0.0-20180802200727-47ae307949d0
